@@ -1,6 +1,6 @@
-package s1_08_n1_exercici6.main;
+package n1exercici6.main;
 
-import s1_08_n1_exercici6.handlers.Llista;
+import n1exercici6.handlers.Llista;
 
 public class LlistaMain {
 

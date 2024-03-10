@@ -1,4 +1,4 @@
-package s1_08_n1_exercici6.handlers;
+package n1exercici6.handlers;
 
 import java.util.ArrayList;
 import java.util.Collections;
